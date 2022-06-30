@@ -1,0 +1,13 @@
+.baseButton{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background-color: teal;
+    color: inherit;
+
+    border: none;
+    border-radius: 30px;
+    height: 35px;
+
+}

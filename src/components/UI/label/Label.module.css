@@ -1,0 +1,17 @@
+.label{
+    text-align: end;
+
+    margin-top: 35px;
+    margin-bottom: 15px;
+    
+    font-size: 35px;
+
+    overflow: hidden;
+}
+
+.subLabel{
+    font-size: .8rem;   
+    
+}
+.labelAnswer{
+}
